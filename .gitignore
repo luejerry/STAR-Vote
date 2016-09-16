@@ -4,8 +4,6 @@
 ##################################
 tmp
 out
-.idea
-*.xml
 *.class
 *.out
 *.pdf
@@ -13,6 +11,9 @@ out
 *.jar
 ballotScanner/BallotScannerUITester.java
 supervisor/view/BallotScannerMachineViewTester.java
+.DS_Store
 #CommandsFile.txt
 #CommandsFileWindows.txt
 
+./idea/workspace.xml
+build/

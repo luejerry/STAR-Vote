@@ -137,7 +137,7 @@ public class AuditoriumParams implements IAuditoriumParams,
     /* Settings for printing */
     public static final String PRINTER_NAME = "Hewlett-Packard HP LaserJet P2055dn";
 
-    public static final String DEFAULT_OPERATING_SYSTEM = "Windows";
+    public static final String DEFAULT_OPERATING_SYSTEM = "OS X";
 
     public static final boolean DEFAULT_SHUFFLE_CANDIDATE_ORDER = false;
 
