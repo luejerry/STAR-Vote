@@ -15,5 +15,5 @@ supervisor/view/BallotScannerMachineViewTester.java
 #CommandsFile.txt
 #CommandsFileWindows.txt
 
-./idea/workspace.xml
+.idea/workspace.xml
 build/
