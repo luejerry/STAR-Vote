@@ -1,6 +1,13 @@
 Legacy Documentation
 ====================
 
+Disabling IPv6
+--------------
+Auditorium currently does not support IPv6. Machines using IPv6 will not be
+able to connect to other machines. To disable IPv6, run the application with
+the JVM argument:
+`-Djava.net.preferIPv4Stack=true`
+
 Command-line usage
 ------------------
 
